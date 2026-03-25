@@ -1,0 +1,8 @@
+{
+  "name": "yunosuke-skills",
+  "description": "Curated agent skills for Claude Code / Codex",
+  "version": "1.0.0",
+  "author": {
+    "name": "Yunosuke Yoshino"
+  }
+}
