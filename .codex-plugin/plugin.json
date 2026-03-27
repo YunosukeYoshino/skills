@@ -1,0 +1,19 @@
+{
+  "name": "yunosuke-skills",
+  "version": "1.0.0",
+  "description": "Curated agent skills for Claude Code / Codex",
+  "author": {
+    "name": "Yunosuke Yoshino",
+    "url": "https://github.com/YunosukeYoshino"
+  },
+  "repository": "https://github.com/YunosukeYoshino/skills",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Yunosuke Skills",
+    "shortDescription": "Curated agent skills for Claude Code / Codex",
+    "longDescription": "A curated bundle of reusable skills for Claude Code and Codex.",
+    "developerName": "Yunosuke Yoshino",
+    "category": "Productivity",
+    "websiteURL": "https://github.com/YunosukeYoshino/skills"
+  }
+}
